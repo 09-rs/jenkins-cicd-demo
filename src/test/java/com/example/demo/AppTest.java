@@ -7,6 +7,6 @@ class AppTest {
 
     @Test
     void testMessage() {
-        assertEquals("Jenkins CI/CD is working!", App.getMessage());
+        assertEquals("Jenkins CI/CD automatic trigger is working!", App.getMessage());
     }
 }
